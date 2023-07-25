@@ -49,7 +49,7 @@
 
 ## 📊 GitHub Stats
 
-![Joaosa100's GitHub stats](https://github-readme-stats.vercel.app/api?username=Joaosa100&show_icons=true&theme=vision-friendly-dark&include_all_commits=true&count_private=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Joaosa100&theme=vision-friendly-dark&layout=compact)](https://github.com/Joaosa100/github-readme-stats)
+| <a href="https://github.com/Joaosa100/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Joaosa100&show_icons=true&include_all_commits=true&theme=vision-friendly-dark&hide_border=true" alt="Joaosa100's github stats" /></a> | <a href="https://github.com/Joaosa100/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Joaosa100&layout=compact&theme=vision-friendly-dark&hide_border=true" /></a> |
+| ------------- | ------------- |
 
 #
