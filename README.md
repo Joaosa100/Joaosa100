@@ -33,8 +33,8 @@
 
 <div style="display: inline_block">
    <img align="center" alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
-   <img align="center" alt="C" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
-   <img align="center" alt="C++" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+   <img align="center" alt="C" src="https://img.shields.io/badge/C-555555?style=for-the-badge&logo=c&logoColor=white" />
+   <img align="center" alt="C++" src="https://img.shields.io/badge/C%2B%2B-f34b7d?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
    <img align="center" alt="Python" src="https://img.shields.io/badge/Python-0F9D58?style=for-the-badge&logo=python&logoColor=white" />
    <img align="center" alt="Flutter" src="https://img.shields.io/badge/Flutter-17D4FF?style=for-the-badge&logo=flutter&logoColor=white" />
    <img align="center" alt="Dart" src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
