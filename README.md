@@ -3,7 +3,7 @@
 
  ###  💻 Student of Computer Engineering at the Federal Institute of Science and Technology of Ceará (IFCE).
 
- ### 📈 Learning about C++ and Flutter.
+ ### 📈 Learning about JavaScript, HTML and CSS.
 
    <p align="left">
       <a href="https://github.com/Joaosa100?tab=followers"><br/>
