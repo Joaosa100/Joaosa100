@@ -3,7 +3,7 @@
 
  ###  💻 Student of Computer Engineering at the Federal Institute of Science and Technology of Ceará (IFCE).
 
- ### 📈 Learning about JavaScript, HTML and CSS.
+ ### 📈 Learning Kotlin with Jetpack Compose.
 
    <p align="left">
       <a href="https://github.com/Joaosa100?tab=followers"><br/>
@@ -31,19 +31,20 @@
 
 ## 🛠️ Languages and Tools
 
-<div style="display: inline_block">
-   <img align="center" alt="Java" src="https://img.shields.io/badge/Java-b07219?style=for-the-badge&logo=openjdk&logoColor=white" />
-   <img align="center" alt="C" src="https://img.shields.io/badge/C-555555?style=for-the-badge&logo=c&logoColor=white" />
-   <img align="center" alt="C++" src="https://img.shields.io/badge/C%2B%2B-f34b7d?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-   <img align="center" alt="Python" src="https://img.shields.io/badge/Python-3572A5?style=for-the-badge&logo=python&logoColor=white" />
-   <img align="center" alt="Flutter" src="https://img.shields.io/badge/Flutter-17D4FF?style=for-the-badge&logo=flutter&logoColor=white" />
-   <img align="center" alt="Dart" src="https://img.shields.io/badge/Dart-00B4AB?style=for-the-badge&logo=dart&logoColor=white" />
-   <img align="center" alt="Kotlin" src="https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white" />
-   <img align="center" alt="Fortran" src="https://img.shields.io/badge/Fortran-4d41b1?style=for-the-badge&logo=fortran&logoColor=white)" />
-   <img align="center" alt="GitHub" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
-   <img align="center" alt="DynamoDB" src="https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?style=for-the-badge&logo=Amazon%20DynamoDB&logoColor=white" />
-
+<div style="display: inline-block">
+   <img align="center" alt="Java" src="https://img.shields.io/badge/Java-b07219?style=for-the-badge&logo=openjdk&logoColor=white" style="margin-bottom: 5px; margin-right: 5px;" />
+   <img align="center" alt="C" src="https://img.shields.io/badge/C-555555?style=for-the-badge&logo=c&logoColor=white" style="margin-bottom: 5px; margin-right: 5px;" />
+   <img align="center" alt="C++" src="https://img.shields.io/badge/C%2B%2B-f34b7d?style=for-the-badge&logo=c%2B%2B&logoColor=white" style="margin-bottom: 5px; margin-right: 5px;" />
+   <img align="center" alt="Python" src="https://img.shields.io/badge/Python-3572A5?style=for-the-badge&logo=python&logoColor=white" style="margin-bottom: 5px; margin-right: 5px;" />
+   <img align="center" alt="Flutter" src="https://img.shields.io/badge/Flutter-17D4FF?style=for-the-badge&logo=flutter&logoColor=white" style="margin-bottom: 5px; margin-right: 5px;" />
+   <img align="center" alt="Dart" src="https://img.shields.io/badge/Dart-00B4AB?style=for-the-badge&logo=dart&logoColor=white" style="margin-bottom: 5px; margin-right: 5px;" />
+   <img align="center" alt="Kotlin" src="https://img.shields.io/badge/kotlin-A97BFF?style=for-the-badge&logo=kotlin&logoColor=white" style="margin-bottom: 5px; margin-right: 5px;" />
+   <img align="center" alt="Fortran" src="https://img.shields.io/badge/Fortran-4d41b1?style=for-the-badge&logo=fortran&logoColor=white)" style="margin-bottom: 5px; margin-right: 5px;" />
+   <img align="center" alt="GitHub" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" style="margin-bottom: 5px; margin-right: 5px;" />
+   <img align="center" alt="DynamoDB" src="https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?style=for-the-badge&logo=Amazon%20DynamoDB&logoColor=white" style="margin-bottom: 5px; margin-right: 5px;" />
 </div>
+
+
 
 ---
 
@@ -53,5 +54,3 @@
 
 | <a href="https://github.com/Joaosa100/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Joaosa100&show_icons=true&include_all_commits=true&theme=vision-friendly-dark&hide_border=true" alt="Joaosa100's github stats" /></a> | <a href="https://github.com/Joaosa100/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Joaosa100&layout=compact&theme=vision-friendly-dark&hide_border=true" /></a> |
 | ------------- | ------------- |
-
-#
