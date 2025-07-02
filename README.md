@@ -3,7 +3,7 @@
 
  ###  💻 Student of Computer Engineering at the Federal Institute of Science and Technology of Ceará (IFCE).
 
- ### 📈 Learning Kotlin with Jetpack Compose.
+ ### 📈 Learning React Native.
 
    <p align="left">
       <a href="https://github.com/Joaosa100?tab=followers"><br/>
