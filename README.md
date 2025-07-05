@@ -24,13 +24,14 @@
 
 </br>
 
-## 🗃️ Other Languages that I know
+## 🗃️ Other Skills
 <p align="left">
   <img src="images/svg/badges/dev/languages/c.svg" alt="c badge" style="margin-left: 15px; margin-right: 1px;">
   <img src="images/svg/badges/dev/languages/cpp.svg" alt="cpp badge" style="margin: 0 1px;">
   <img src="images/svg/badges/dev/languages/java.svg" alt="java badge" style="margin: 0 1px;">
   <img src="images/svg/badges/dev/languages/python_colour.svg" alt="pythonColour badge" style="margin: 0 1px;">
   <img src="images/svg/badges/dev/languages/dart_colour.svg" alt="dartColour badge" style="margin: 0 1px;">
+  <img src="images/svg/badges/dev/frameworks/flutter.svg" alt="flutter badge" style="margin: 0 1px;">
   <img src="images/svg/badges/dev/languages/fortran.svg" alt="fortran badge" style="margin: 0 1px;">
   <img src="images/svg/badges/dev/languages/kotlin.svg" alt="kotlin badge" style="margin: 0 1px;">
   <img src="images/svg/badges/dev/frameworks/jetpackcompose.svg" alt="jetpackcompose badge" style="margin: 0 1px;">
