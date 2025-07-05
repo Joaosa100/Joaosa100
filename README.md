@@ -1,36 +1,43 @@
-# 🏛️ Joaosa100
+<img src="images/svg/headers/header_right_en.svg"></img>
 
+## 📫 About Me
+ ####  💻🎓 Computer Engineering at the Federal Institute of Science and Technology of Ceará (IFCE).
 
- ###  💻 Student of Computer Engineering at the Federal Institute of Science and Technology of Ceará (IFCE).
-
- ### 📈 Learning React Native.
-
-   <p align="left">
-      <a href="https://github.com/Joaosa100?tab=followers"><br/>
-         <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/Joaosa100?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
-      <a href="https://github.com/Joaosa100?tab=repositories&sort=stargazers">
-         <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/Joaosa100?color=FFC100&style=for-the-badge&labelColor=FFC100&logo=star"/></a>
-   </p>
-
----
-
-<br/>
-
-## 📫 Reach me out
-<div style="display: inline_block">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joao-silva-assuncao/)
-[![GMAIL](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:joaovitorsa100@gmail.com)
-
+ #### 📈 Learning React Native.
+<div align="center">
+  <a href="https://www.linkedin.com/in/joao-silva-assuncao/">
+    <img src="images/svg/badges/social/linkedin.svg" alt="linkedin badge">
+  </a>
 </div>
 
----
+</br>
 
-<br/>
+## 🛠️ Main Languages and Tools
+<p align="left">
+  <img src="images/svg/badges/dev/languages/html.svg" alt="html badge" style="margin-left: 15px; margin-right: 1px;"></img>
+  <img src="images/svg/badges/dev/languages/css3.svg" alt="css3 badge" style="margin: 0 1px;"></img>
+  <img src="images/svg/badges/dev/languages/js.svg" alt="javascript badge" style="margin: 0 1px;"></img>
+  <img src="images/svg/badges/dev/frameworks/react.svg" alt="react badge" style="margin: 0 1px;"></img>
+  <img src="images/svg/badges/dev/librariesAndRuntime/nodejs.svg" alt="nodejs badge" style="margin: 0 1px;"></img>
+  <img src="images/svg/badges/dev/librariesAndRuntime/tailwindcss.svg" alt="tailwindcss badge" style="margin: 0 1px;"></img>
+</p>
+
+</br>
+
+## 🗃️ Other Languages that I know
+<p align="left">
+  <img src="images/svg/badges/dev/languages/c.svg" alt="c badge" style="margin-left: 15px; margin-right: 1px;">
+  <img src="images/svg/badges/dev/languages/cpp.svg" alt="cpp badge" style="margin: 0 1px;">
+  <img src="images/svg/badges/dev/languages/java.svg" alt="java badge" style="margin: 0 1px;">
+  <img src="images/svg/badges/dev/languages/python_colour.svg" alt="pythonColour badge" style="margin: 0 1px;">
+  <img src="images/svg/badges/dev/languages/dart_colour.svg" alt="dartColour badge" style="margin: 0 1px;">
+  <img src="images/svg/badges/dev/languages/fortran.svg" alt="fortran badge" style="margin: 0 1px;">
+  <img src="images/svg/badges/dev/languages/kotlin.svg" alt="kotlin badge" style="margin: 0 1px;">
+  <img src="images/svg/badges/dev/frameworks/jetpackcompose.svg" alt="jetpackcompose badge" style="margin: 0 1px;">
+</p>
 
 
-## 🛠️ Languages and Tools
-
+<!--
 <div style="display: inline-block">
    <img align="center" alt="Java" src="https://img.shields.io/badge/Java-b07219?style=for-the-badge&logo=openjdk&logoColor=white" style="margin-bottom: 5px; margin-right: 5px;" />
    <img align="center" alt="C" src="https://img.shields.io/badge/C-555555?style=for-the-badge&logo=c&logoColor=white" style="margin-bottom: 5px; margin-right: 5px;" />
@@ -43,10 +50,7 @@
    <img align="center" alt="GitHub" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" style="margin-bottom: 5px; margin-right: 5px;" />
    <img align="center" alt="DynamoDB" src="https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?style=for-the-badge&logo=Amazon%20DynamoDB&logoColor=white" style="margin-bottom: 5px; margin-right: 5px;" />
 </div>
-
-
-
----
+-->
 
 <br/>
 
